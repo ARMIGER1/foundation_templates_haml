@@ -1,4 +1,12 @@
-foundation_templates_haml
-=========================
+# :heart: Zurb Foundation Templates... in HAML ! :heart:
+All files are from http://foundation.zurb.com/templates.php.
 
-ZURB Foundation templates (from http://foundation.zurb.com/templates.php) translated into HAML.
+They were translated quickly with the excellent Sublime html2haml plugin : https://github.com/pavelpachkovskij/sublime-html-to-haml
+
+## Included :
+/html -> the original
+
+/haml -> translated
+
+## Copyright:
+© Copyright no one at all. Go to town.
